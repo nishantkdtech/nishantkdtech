@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @nishantkdtech
-- 👀 I’m interested in ... your mother
-- 🌱 I’m currently learning ... nothin'
-- 💞️ I’m looking to collaborate on ... nothin'
-- 📫 How to reach me ... don't
+have you considered suicide?
 
 <!---
 nishantkdtech/nishantkdtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
