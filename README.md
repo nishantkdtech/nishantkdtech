@@ -1,4 +1,3 @@
-have you considered suicide?
 
 <!---
 nishantkdtech/nishantkdtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
